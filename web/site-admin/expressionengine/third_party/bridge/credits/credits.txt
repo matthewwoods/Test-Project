@@ -1,1 +1,0 @@
-/bridge/codeigniter/system/application/libraries/Extensions.php is copyright EllisLab, Inc. and is used by permission.
